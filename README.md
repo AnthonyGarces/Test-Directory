@@ -1,0 +1,1 @@
+This is a test repository so that I could practice creating a repository in git through the command line and then committing it to github. If you're reading this on github, you succeeded!
